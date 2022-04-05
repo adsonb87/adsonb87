@@ -1,5 +1,6 @@
 ## Oi! Eu sou Adson !!!
 
+- 💼 Hoje trabalho com TotvsRM e desenvolvimento RPA
 - 🌱 Estudando Java | Spring
 - 📫 adsonb87@gmail.com
 
