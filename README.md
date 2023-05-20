@@ -1,6 +1,6 @@
 ## Oi! Eu sou Adson !!!
 
-- 💼 Hoje trabalho com TotvsRM e desenvolvimento RPA
+- 💼 Tenho experiência como Engenheiro de Dados, programação em Java, estou buscando a primeira vaga como desenvolvedor.
 - 🌱 Estudando Java | Spring
 - 📫 adsonb87@gmail.com
 
