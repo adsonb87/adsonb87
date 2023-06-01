@@ -2,3 +2,6 @@
 - https://github.com/adsonb87/spring-data
 - https://github.com/adsonb87/Estudando-Spring-Framework
 - https://github.com/adsonb87/gestao_convidados_spring
+- https://github.com/adsonb87/Cardapio
+- https://github.com/adsonb87/SoulCode
+- https://github.com/adsonb87/biblioteca
