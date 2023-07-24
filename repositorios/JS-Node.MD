@@ -3,3 +3,4 @@
 - https://github.com/adsonb87/LayoutBancario
 - https://github.com/adsonb87/curso_node_js
 - https://github.com/adsonb87/nodejs
+- https://github.com/adsonb87/next-crud
