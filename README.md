@@ -1,7 +1,7 @@
 ## Oi! Eu sou Adson !!!
 
-- 💼 Tenho experiência como Engenheiro de Dados, programação em Java, estou buscando a primeira vaga como desenvolvedor.
-- 🌱 Estudando Java | Spring
+- 💼 Desenvolvedor Java | React JS
+- 🌱 Java | Spring | React JS | Node
 - 📫 adsonb87@gmail.com
 
 ##
