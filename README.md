@@ -1,7 +1,7 @@
 ## Oi! Eu sou Adson !!!
 
-- 💼 Desenvolvedor Java | React JS
-- 🌱 Java | Spring | React JS | Node
+- 💼 Desenvolvedor Java | Nest JS
+- 🌱 Java | Spring | Nest JS | Node | React JS
 - 📫 adsonb87@gmail.com
 
 ##
